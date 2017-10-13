@@ -1,0 +1,17 @@
+.exLogo{
+	color: red!important;
+	font-size: 36px;
+}
+.android-download{
+	border: 4px solid #e74c3c;
+	border-radius: 5px;
+	padding: 5px;
+	padding-bottom: 0px;
+	padding-top: 15px;
+	background: #e74c3c;
+	color: white;
+}
+.newsource{
+	margin-top: 200px;
+	margin-left: 20px;
+}
